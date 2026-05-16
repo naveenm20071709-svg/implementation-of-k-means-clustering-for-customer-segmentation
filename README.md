@@ -84,10 +84,12 @@ plt.show()
 ```
 
 ## Output:
-<img width="900" height="639" alt="Screenshot 2026-05-16 093437" src="https://github.com/user-attachments/assets/fd2db84f-9908-40e8-8429-8285e37cbccd" />
-<img width="847" height="354" alt="Screenshot 2026-05-16 093415" src="https://github.com/user-attachments/assets/f612ad83-0b1a-4b98-b49a-e67a4c9d6c53" />
-<img width="767" height="536" alt="Screenshot 2026-05-16 093407" src="https://github.com/user-attachments/assets/0b9dcd4f-2f85-4fd4-8fff-6e40070e0c87" />
-<img width="607" height="272" alt="Screenshot 2026-05-16 093358" src="https://github.com/user-attachments/assets/7891749e-7dc8-49ba-ade4-e175de300b07" />
+<img width="607" height="272" alt="Screenshot 2026-05-16 093358" src="https://github.com/user-attachments/assets/2999b74e-0ef2-44fa-83fe-8ffacc4b8149" />
+<img width="767" height="536" alt="Screenshot 2026-05-16 093407" src="https://github.com/user-attachments/assets/00891a74-3cf1-47c8-b32a-52e261f0aedc" />
+<img width="847" height="354" alt="Screenshot 2026-05-16 093415" src="https://github.com/user-attachments/assets/37de2688-5351-4a07-9364-91d95e7cd0dc" />
+<img width="900" height="639" alt="Screenshot 2026-05-16 093437" src="https://github.com/user-attachments/assets/f43f1afe-64a5-4658-8ecd-d2e5877518fa" />
+
+
 
 
 
